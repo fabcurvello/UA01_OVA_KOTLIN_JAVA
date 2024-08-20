@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca433e8-fdd3-4d05-9064-1a7c1e0cd9f4" name="Changes" comment="Exemplo 4" />
+    <list default="true" id="2ca433e8-fdd3-4d05-9064-1a7c1e0cd9f4" name="Changes" comment="Exemplo 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,18 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "fabcurvello"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;fabcurvello&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/fabcurvello/UA01_OVA_KOTLIN_JAVA.git",
-    "accountId": "8f474d2d-2764-4730-8912-addc9cdb7865"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/fabcurvello/UA01_OVA_KOTLIN_JAVA.git&quot;,
+    &quot;accountId&quot;: &quot;8f474d2d-2764-4730-8912-addc9cdb7865&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -43,20 +43,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Exemplo02.executor": "Run",
-    "Application.Exemplo03Java.executor": "Run",
-    "Application.Exemplo04Java.executor": "Run",
-    "Kotlin.Exemplo02KotlinKt.executor": "Run",
-    "Kotlin.Exemplo03KotlinKt.executor": "Run",
-    "Kotlin.Exemplo04KotlinKt.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/fabriciocurvello/Projetos/IntelliJ IDEA/UA01_OVA_KOTLIN_JAVA/src/logica"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Exemplo02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exemplo03Java.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exemplo04Java.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Exemplo02KotlinKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Exemplo03KotlinKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Exemplo04KotlinKt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/fabriciocurvello/Projetos/IntelliJ IDEA/UA01_OVA_KOTLIN_JAVA/src/logica&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/logica" />
@@ -90,12 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1724114004531</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Exemplo 1">
+      <option name="closed" value="true" />
+      <created>1724176107501</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724176107502</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exemplos 2 e 3" />
     <MESSAGE value="Exemplo 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exemplo 4" />
+    <MESSAGE value="Exemplo 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exemplo 1" />
   </component>
 </project>

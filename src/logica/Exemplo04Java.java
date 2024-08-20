@@ -8,7 +8,6 @@ public class Exemplo04Java {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Qual a cor do semáforo neste momento? ");
         String cor = scanner.nextLine().toLowerCase();
-
         switch (cor) {
             case "verde":
                 System.out.println("Siga em frente.");
