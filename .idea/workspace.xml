@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca433e8-fdd3-4d05-9064-1a7c1e0cd9f4" name="Changes" comment="Exemplos 2 e 3">
-      <change afterPath="$PROJECT_DIR$/src/logica/Exemplo04Java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logica/Exemplo04Kotlin.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logica/Exemplo03Java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/Exemplo03Java.java" afterDir="false" />
-    </list>
+    <list default="true" id="2ca433e8-fdd3-4d05-9064-1a7c1e0cd9f4" name="Changes" comment="Exemplo 4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,11 +82,20 @@
       <option name="project" value="LOCAL" />
       <updated>1724110059871</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Exemplo 4">
+      <option name="closed" value="true" />
+      <created>1724114004531</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724114004531</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exemplos 2 e 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exemplos 2 e 3" />
+    <MESSAGE value="Exemplo 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exemplo 4" />
   </component>
 </project>

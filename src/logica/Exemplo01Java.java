@@ -12,14 +12,10 @@ public class Exemplo01Java {
 
         System.out.println("Informe a nota 1: ");
         nota1 = scanner.nextDouble();
-
         System.out.println("Informe a nota 2: ");
         nota2 = scanner.nextDouble();
-
         System.out.println("Informe a nota 3: ");
         nota3 = scanner.nextDouble();
-
-        scanner.close();
 
         media = ( nota1 + nota2 + nota3 ) / 3;
 
@@ -32,6 +28,6 @@ public class Exemplo01Java {
         }
 
         System.out.printf("Média: %.1f - Situação: %s", media, situacao);
-
+        scanner.close();
     }
 }
