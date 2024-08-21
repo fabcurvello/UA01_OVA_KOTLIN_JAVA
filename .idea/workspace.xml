@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca433e8-fdd3-4d05-9064-1a7c1e0cd9f4" name="Changes" comment="Exemplo 4">
-      <change afterPath="$PROJECT_DIR$/src/poo/ContaBancariaJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/ContaBancariaKotlin.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/MovimentacaoBancariaJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2ca433e8-fdd3-4d05-9064-1a7c1e0cd9f4" name="Changes" comment="poo encapsulamento" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,13 +107,22 @@
       <option name="project" value="LOCAL" />
       <updated>1724176178806</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="poo encapsulamento">
+      <option name="closed" value="true" />
+      <created>1724204501917</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724204501917</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exemplos 2 e 3" />
     <MESSAGE value="Exemplo 1" />
     <MESSAGE value="Exemplo 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exemplo 4" />
+    <MESSAGE value="poo encapsulamento" />
+    <option name="LAST_COMMIT_MESSAGE" value="poo encapsulamento" />
   </component>
 </project>
