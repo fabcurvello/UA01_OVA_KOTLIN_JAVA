@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca433e8-fdd3-4d05-9064-1a7c1e0cd9f4" name="Changes" comment="poo abstracao Classe Abstrata Java">
-      <change afterPath="$PROJECT_DIR$/src/poo/CirculoJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/Forma.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/FormaJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/GerandoFormasJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/RetanguloJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2ca433e8-fdd3-4d05-9064-1a7c1e0cd9f4" name="Changes" comment="poo abstracao Classe Abstrata">
+      <change afterPath="$PROJECT_DIR$/src/poo/BoletoJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/CartaoCreditoJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/Pagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/PagavelJava.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +19,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
-        <option value="Class" />
         <option value="Kotlin Class" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -59,6 +58,7 @@
     "Application.Exemplo03Java.executor": "Run",
     "Application.Exemplo04Java.executor": "Run",
     "Application.GerandoFormasJava.executor": "Run",
+    "Application.Pagamento.executor": "Run",
     "Kotlin.CalculadoraKotlinKt.executor": "Run",
     "Kotlin.ContaBancariaKotlinKt.executor": "Run",
     "Kotlin.Exemplo02KotlinKt.executor": "Run",
@@ -170,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724297957855</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="poo abstracao Classe Abstrata">
+      <option name="closed" value="true" />
+      <created>1724356013780</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1724356013780</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,6 +201,7 @@
     <MESSAGE value="poo polimorfismo sobrecarga" />
     <MESSAGE value="poo polimorfismo sobrescrita" />
     <MESSAGE value="poo abstracao Classe Abstrata Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="poo abstracao Classe Abstrata Java" />
+    <MESSAGE value="poo abstracao Classe Abstrata" />
+    <option name="LAST_COMMIT_MESSAGE" value="poo abstracao Classe Abstrata" />
   </component>
 </project>
