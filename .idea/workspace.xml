@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca433e8-fdd3-4d05-9064-1a7c1e0cd9f4" name="Changes" comment="poo polimorfismo sobrescrita">
-      <change beforePath="$PROJECT_DIR$/src/poo/Funcionario2Kotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/Funcionario2Kotlin.kt" afterDir="false" />
+    <list default="true" id="2ca433e8-fdd3-4d05-9064-1a7c1e0cd9f4" name="Changes" comment="poo abstracao Classe Abstrata Java">
+      <change afterPath="$PROJECT_DIR$/src/poo/CirculoJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/Forma.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/FormaJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/GerandoFormasJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/RetanguloJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,11 +58,13 @@
     "Application.Exemplo02.executor": "Run",
     "Application.Exemplo03Java.executor": "Run",
     "Application.Exemplo04Java.executor": "Run",
+    "Application.GerandoFormasJava.executor": "Run",
     "Kotlin.CalculadoraKotlinKt.executor": "Run",
     "Kotlin.ContaBancariaKotlinKt.executor": "Run",
     "Kotlin.Exemplo02KotlinKt.executor": "Run",
     "Kotlin.Exemplo03KotlinKt.executor": "Run",
     "Kotlin.Exemplo04KotlinKt.executor": "Run",
+    "Kotlin.FormaKt.executor": "Run",
     "Kotlin.Funcionario2KotlinKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -155,8 +162,27 @@
       <option name="project" value="LOCAL" />
       <updated>1724297643387</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="poo polimorfismo sobrescrita">
+      <option name="closed" value="true" />
+      <created>1724297957855</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724297957855</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exemplos 2 e 3" />
@@ -166,6 +192,7 @@
     <MESSAGE value="poo heranca" />
     <MESSAGE value="poo polimorfismo sobrecarga" />
     <MESSAGE value="poo polimorfismo sobrescrita" />
-    <option name="LAST_COMMIT_MESSAGE" value="poo polimorfismo sobrescrita" />
+    <MESSAGE value="poo abstracao Classe Abstrata Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="poo abstracao Classe Abstrata Java" />
   </component>
 </project>
