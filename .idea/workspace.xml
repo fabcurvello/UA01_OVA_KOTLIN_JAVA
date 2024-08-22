@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca433e8-fdd3-4d05-9064-1a7c1e0cd9f4" name="Changes" comment="poo encapsulamento" />
+    <list default="true" id="2ca433e8-fdd3-4d05-9064-1a7c1e0cd9f4" name="Changes" comment="poo encapsulamento">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/CadastroFuncionarioJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/DesenvolvedorJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/FuncionarioJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/FuncionarioKotlin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/GerenteJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logica/Exemplo02Kotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/Exemplo02Kotlin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logica/Exemplo04Kotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/Exemplo04Kotlin.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +55,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CadastroFuncionarioJava.executor": "Run",
     "Application.Exemplo02.executor": "Run",
     "Application.Exemplo03Java.executor": "Run",
     "Application.Exemplo04Java.executor": "Run",
@@ -53,6 +64,7 @@
     "Kotlin.Exemplo03KotlinKt.executor": "Run",
     "Kotlin.Exemplo04KotlinKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/fabriciocurvello/Projetos/IntelliJ IDEA/UA01_OVA_KOTLIN_JAVA/src/logica"
@@ -115,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724204501917</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="poo encapsulamento">
+      <option name="closed" value="true" />
+      <created>1724205045129</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724205045129</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
