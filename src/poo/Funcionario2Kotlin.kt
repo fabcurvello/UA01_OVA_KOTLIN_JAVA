@@ -21,9 +21,10 @@ class Desenvolvedor2Kotlin : Funcionario2Kotlin() {
 fun main() {
     val ger: Funcionario2Kotlin = Gerente2Kotlin()
     val dev: Funcionario2Kotlin = Desenvolvedor2Kotlin()
-    val func: Funcionario2Kotlin = Funcionario2Kotlin()
+    val func = Funcionario2Kotlin()
 
     println("Salário do gerente: ${ger.calcularSalario()}")
     println("Salário do desenvolvedor: ${dev.calcularSalario()}")
     println("Salário do funcionário: ${func.calcularSalario()}")
 }
+
